@@ -50,6 +50,12 @@ sonar-rock-mine-predictor/
 
 ---
 
+## Sample Output 
+
+![Model Output](https://raw.githubusercontent.com/monasri001/underwater-mines-vs-rock-prediction-System/main/output%20image.png)
+
+---
+
 ## 💻 Setup Instructions
 
 ### 🧬 Clone the Repository
